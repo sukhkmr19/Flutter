@@ -1,0 +1,4 @@
+#Mon Dec 10 12:00:20 IST 2018
+base.0=/Users/brainmobi/StudioProjects/imageloading/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
