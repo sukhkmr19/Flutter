@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/brainmobi/Flutterprojects/flutter
-FLUTTER_APPLICATION_PATH=/Users/brainmobi/StudioProjects/imageloading
-FLUTTER_TARGET=/Users/brainmobi/StudioProjects/imageloading/lib/loadDataFromServer/AsyncLoadData.dart
+FLUTTER_APPLICATION_PATH=/Users/brainmobi/Flutterprojects/flutter_apps/Flutter
+FLUTTER_TARGET=/Users/brainmobi/Flutterprojects/flutter_apps/Flutter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/brainmobi/Flutterprojects/flutter/bin/cache/artifacts/engine/ios
